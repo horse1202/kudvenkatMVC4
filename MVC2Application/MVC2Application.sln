@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC2Application", "MVC2Application\MVC2Application.csproj", "{FACE7CC6-021F-4112-BA50-E1C6C624674D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACE7CC6-021F-4112-BA50-E1C6C624674D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACE7CC6-021F-4112-BA50-E1C6C624674D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACE7CC6-021F-4112-BA50-E1C6C624674D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACE7CC6-021F-4112-BA50-E1C6C624674D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
